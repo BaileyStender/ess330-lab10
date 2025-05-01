@@ -242,7 +242,7 @@ ggplot() +
 ```
 
 ```{r}
-#.4
+#3.4
 library(gghighlight)
 
 cities <- cities %>%
